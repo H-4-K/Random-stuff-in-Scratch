@@ -676,4 +676,4 @@ var randomProj=[
 "https://scratch.mit.edu/projects/159724660/",
 "https://scratch.mit.edu/projects/159668771/"
 ];
-window.open(RandomProj[Math.floor(Math.random()*RandomProj.length)])
+window.open(randomProj[Math.floor(Math.random()*randomProj.length)])

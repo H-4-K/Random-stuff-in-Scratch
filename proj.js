@@ -1,4 +1,4 @@
-var randomProj[
+var randomProj=[
 "https://scratch.mit.edu/projects/195086372/",
 "https://scratch.mit.edu/projects/195187450/",
 "https://scratch.mit.edu/projects/194988456/",
